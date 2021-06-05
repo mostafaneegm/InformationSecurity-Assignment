@@ -1,0 +1,7 @@
+1. <Closed ports are the ports where there is no listening applications on it. but they can be helpful in host discovery(ping scan) and part in OS detection.>
+
+2. <Filtered ports are the one that cannot be determined wether they are open or closed. as they prevent nmap probes from reaching the port. The filtering could be from a security measures taken by adminstrator as router rules, firewall device, or host based firewall software.
+the filtered ports reveals small amount of information or just drop probes which make the scan much longer or sometimes respond with error message as "cannot reach to the destenation">
+
+
+3. REQUESTS=<HTTP PROPFIND> , <HTTP OPTIONS>, <HTTP POST> ...

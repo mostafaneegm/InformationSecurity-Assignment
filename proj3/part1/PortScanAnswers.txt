@@ -1,0 +1,12 @@
+1. <COMMAND>  "sudo nmap scanme.nmap.org -sS" -sS is used to stealth scan but we can also use command as following "sudo nmap scanme.nmap.org", scanme.nmap.org -A,
+"sudo nmap scanme.nmap.org -T4", "sudo nmap scanme.nmap.org -p-" , "sudo nmap scanme.nmap.org -r".
+
+
+
+2. <IP_ADDRESS> 45.33.32.156
+
+3. <PORT1>: 22/tcp <APP1> ssh, <PORT2>:80/tcp <APP2> http,<PORT3>: 9929/tcp <APP3> nping-echo, <PORT4>:31337/tcp <APP4> elite.
+
+4. SOFTWARE=<Ubuntu apache httpd>, VERSION=<2.4.7>, PORTS=<80/tcp> ...
+
+
